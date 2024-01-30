@@ -1,9 +1,9 @@
-<h3 align="center"> <img src="https://github.com/felip3fl/FL-SorteiosJ/assets/20684484/db6b5034-84b3-4c6a-802f-dd6e9b49eada" width="400px" align="center" >
+<h3 align="center"> <img src="https://github.com/felip3fl/FL-SorteiosJ/assets/20684484/db6b5034-84b3-4c6a-802f-dd6e9b49eada" width="380px" align="center" >
   <BR><BR>SORTEIO J</h3>
 
 <h3 align="center">
-<img src="https://img.shields.io/badge/STATUS-FINALIZADO-pink">
-<img src="https://img.shields.io/badge/PROJECT%20VERSION-0.0.0-pink">
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-a84b7e">
+<img src="https://img.shields.io/badge/PROJECT%20VERSION-0.0.0-a34076">
 </h3>
 
 <BR>
